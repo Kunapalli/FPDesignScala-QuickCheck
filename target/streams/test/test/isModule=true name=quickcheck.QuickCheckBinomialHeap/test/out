@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.insert2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.deleteMin: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.sortedSequence: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.minMeld: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.totalMeld: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.sameElemTwice: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.meldSameHeap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.p1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.p2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.p3: OK, passed 100 tests.[0m
